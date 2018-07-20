@@ -1,0 +1,11 @@
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\bin\Debug\netcoreapp2.0\CommandPattern.deps.json
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\bin\Debug\netcoreapp2.0\CommandPattern.runtimeconfig.json
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\bin\Debug\netcoreapp2.0\CommandPattern.runtimeconfig.dev.json
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\bin\Debug\netcoreapp2.0\CommandPattern.dll
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\bin\Debug\netcoreapp2.0\CommandPattern.pdb
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\obj\Debug\netcoreapp2.0\CommandPattern.csprojAssemblyReference.cache
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\obj\Debug\netcoreapp2.0\CommandPattern.csproj.CoreCompileInputs.cache
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\obj\Debug\netcoreapp2.0\CommandPattern.AssemblyInfoInputs.cache
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\obj\Debug\netcoreapp2.0\CommandPattern.AssemblyInfo.cs
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\obj\Debug\netcoreapp2.0\CommandPattern.dll
+F:\GitHub\SRC\Head-First-Design-Patterns-in-CSharp-master\CommandPattern\obj\Debug\netcoreapp2.0\CommandPattern.pdb
